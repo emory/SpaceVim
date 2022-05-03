@@ -19,7 +19,7 @@ if exists('g:GuiLoaded')
     GuiPopupmenu 0
   endif
 
-  " Disbale gui tabline
+  " Disable gui tabline
   if exists(':GuiTabline') == 2
     GuiTabline 0
   endif
